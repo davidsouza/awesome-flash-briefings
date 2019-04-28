@@ -17,7 +17,7 @@
 	<br>
 </div>
 
-## Table of Contents
+## Contents
 
 - [Crypto News](#crypto-news)
 - [General News](#general-news)
@@ -57,7 +57,7 @@
 
 - [Washington Post](https://www.amazon.com/Washington-Post-Company-The/dp/B01N2IDHFF/)
 
-  - **Description**: Listen to one of three shows updated daily: _ Our news show, Post Reports, brings you the reporting of The Post newsroom. _ Our politics morning show, The Daily 202's Big Idea, analyzes the biggest political stories of the day. \* Our history show, Retropod, brings you one fascinating moment from history every day. You can also ask for headlines.
+  - **Description**: Listen to one of three shows updated daily: Our news show, Post Reports, brings you the reporting of The Post newsroom. Our politics morning show, The Daily 202's Big Idea, analyzes the biggest political stories of the day. Our history show, Retropod, brings you one fascinating moment from history every day. You can also ask for headlines.
   - **Frequency**: Daily
 
 ## Miscellaneous
@@ -77,11 +77,6 @@
 - [FOX Sports Flash Briefing](https://www.amazon.com/FOX-Sports-Flash-Briefing/dp/B07DM5LMNX/)
 
   - **Description**: Get the latest news and updates from the FOX Sports - home to the 2018 FIFA World Cup (TM), MLB, NASCAR, NBA, NHL and more.
-  - **Frequency**: Daily
-
-- [Fox Sports Radio](https://www.amazon.com/iHeartRadio-Fox-Sports-Radio/dp/B01JHA6MOQ/)
-
-  - **Description**: As part of your Flash Briefing, hear the latest sports news from Fox Sports Radio.
   - **Frequency**: Daily
 
 ## Technology News
