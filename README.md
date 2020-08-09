@@ -2,7 +2,7 @@
 
 > List of Awesome Flash Briefings that are recommended by the community
 
-Just type [awesomeflashbriefings.com](http://awesomeflashbriefings.com/) to go here.
+Just type [awesomeflashbriefings.com](https://awesomeflashbriefings.com/) to go here.
 
 ## Contents
 
