@@ -6,6 +6,7 @@ Just type [awesomeflashbriefings.com](https://awesomeflashbriefings.com/) to go 
 
 ## Contents
 
+- [Business and Finance](#business-and-finance)
 - [Crypto News](#crypto-news)
 - [General News](#general-news)
 - [Miscellaneous](#miscellaneous)
@@ -13,17 +14,39 @@ Just type [awesomeflashbriefings.com](https://awesomeflashbriefings.com/) to go 
 - [Technology News](#technology-news)
 - [Weather](#weather)
 
+## Business and Finance
+
+- [CNBC Markets Now](https://www.amazon.com/NBCUniversal-CNBC-Markets-Now/dp/B077BLZNN2/) - CNBC Markets Now provides a look at the days market moves with commentary and analysis from Michael Santoli, CNBC Senior Markets Commentator.
+
+- [CNN Business](https://www.amazon.com/CNN-Interactive-Group-Inc-CNNMoney/dp/B0779GYS38/) - Catch up on the latest business news headlines from CNN Business every weekday. Tune in to “Before the Bell” at 7:30 am ET for chief business correspondent Christine Romans to set up your day. Catch “Markets Now” after the closing bell with CNN Business’s editor-at-large Richard Quest at 5:30 pm ET. Available on Amazon video and audio devices.
+
+- [Fox Business](https://www.amazon.com/Fox-News-Channel-Business/dp/B06XDTL3JT/) - Get the latest business news and top stories from Fox Business, now on Alexa.
+
 ## Crypto News
 
 - [Crypto Coin Minute](https://www.amazon.com/DES-Pro-Crypto-Coin-Minute/dp/B07N83XZCY/) - Your daily crypto coin flash briefing in one minute. We can hopefully provide a quick sound bite for your crypto information for the day. (Daily)
 
 ## General News
 
+- [ABC News Update](https://www.amazon.com/ABC-News-Radio-Update/dp/B072F3T752/) - From ABC News, this hourly audio newscast provides the latest headlines....updated every hour, 24 hours per day. The newscast runs two minutes.
+
+- [BBC World Service](https://www.amazon.com/TuneIn-BBC/dp/B01JHLI06S/) - The latest five minute news bulletin from BBC World Service.
+
+- [CBS Radio News Hourly Cast](https://www.amazon.com/CBS-Radio-News-Hourly-Cast/dp/B01L7IX7XK/) - A five-minute news summary of the biggest news impacting your world.
+
+- [CNN Flash Briefing](https://www.amazon.com/CNN-Interactive-Group-Inc-Briefing/dp/B01JHK4I0G/) - Follow the latest news and breaking news for U.S., world, weather, entertainment, politics and health from CNN within Alexa’s Flash Briefing.
+
 - [Fox News](https://www.amazon.com/Fox-News-Channel/dp/B01M5EIW2D/) - Get the latest news from FOX News now on Alexa. Stay up to date on the political landscape or listen to the latest celebrity gossip. FOX News keeps you in the know. (This flash briefing includes video on compatible devices). (Daily)
 
 - [NPR News Now](https://www.amazon.com/NPR-Hourly-News-Summary/dp/B01K07MU64/) - Five minutes of NPR news. (Hourly)
 
 - [POLITICO Playbook](https://www.amazon.com/POLITICO-Playbook/dp/B01KBAEXFG/) - POLITICO's must-read audio briefing on what's driving the day in Washington, featuring Playbook authors Anna Palmer and Jake Sherman. (Daily)
+
+- [Reuters News Briefing - US](https://www.amazon.com/Thomson-Reuters-TV-U-S/dp/B01N1MTU0I/) - Reuters News Briefing is your 5 minute news briefing from Reuters. Updated around the clock by editorial teams on four continents, Reuters taps into a network of 2,500 journalists reporting from 200 locations worldwide. Straight from the source and made to fit your day.
+
+- [Reuters News Briefing - World](https://www.amazon.com/Thomson-Reuters-TV-World/dp/B072JZHYJM/) - Reuters News Briefing is your 5 minute news briefing from Reuters. Updated around the clock by editorial teams on four continents, Reuters taps into a network of 2,500 journalists reporting from 200 locations worldwide. Straight from the source and made to fit your day.
+
+- [The New York Times](https://www.amazon.com/Daily-New-York-Times/dp/B01MY9B5BB/) - The news you need to know today from The New York Times.
 
 - [Wall Street Journal](https://www.amazon.com/Dow-Jones-Company-Inc-Journal/dp/B01NBC07Z2/) - Coverage you trust, insights you need. Here you will find the latest news, podcasts and market updates from The Wall Street Journal. (Daily)
 
@@ -37,17 +60,33 @@ Just type [awesomeflashbriefings.com](https://awesomeflashbriefings.com/) to go 
 
 ## Sports News
 
+- [CBS Sports Update](https://www.amazon.com/gp/product/B01M9FIFIK/) - Boomer Esiason, John Feinstein, Doug Gottlieb and Jim Rome provide unique commentaries in the world of Sports news
+
+- [ESPN Flash Briefing](https://www.amazon.com/ESPN-Flash-Briefing/dp/B073X79L5L/) - Want to stay up to date on the latest sports news? From Aaron Rodgers to Zlatan Ibrahimović, your ESPN Flash Briefings bring you the hottest stories in sports, updated throughout the day.
+
 - [FOX Sports Flash Briefing](https://www.amazon.com/FOX-Sports-Flash-Briefing/dp/B07DM5LMNX/) - Get the latest news and updates from the FOX Sports - home to the 2018 FIFA World Cup (TM), MLB, NASCAR, NBA, NHL and more. (Daily)
 
+- [NBA Flash Briefing](https://www.amazon.com/gp/product/B0763ZGR99/) - Follow the latest news and game recaps from around the NBA within Alexa's Flash Briefing.
+
+- [NBC Sports Update](https://www.amazon.com/NBCUniversal-Media-LLC-Sports-Update/dp/B079Q9H8VH/) - The NBC Sports Update brings you national sports news, every hour, 24/7.
+
 ## Technology News
+
+- [CNBC Tech Check](https://www.amazon.com/NBCUniversal-CNBC-Tech-Check/dp/B077BLM9NR/) - CNBC’s Tech Check brings you the latest in tech news from CNBC’s 1 Market in the heart of San Francisco. Tech Check keeps you up to speed on the largest technology companies, cybersecurity, social media, electronics, robotics and mobile technology.
+
+- [CNET News](https://www.amazon.com/CNET-News/dp/B01KYOAT7A/) - Tech Today delivers a daily drop of the most compelling stories from and around the world of technology and tech culture. In about 60 seconds, viewers get a quick take of what matters and how it impacts their relationship with the connected world.
 
 - [Daily Tech Headlines](https://www.amazon.com/gp/product/B01M1B3K5U/) - The essential tech news you need Monday - Friday day in 10 minutes or less. (Daily)
 
 - [Digg](https://www.amazon.com/digg-Digg/dp/B01KHGAN5S/) - Installing Digg on your Amazon Echo brings our artisan, hand-crafted news feeds into your home and into your ears. Why limit yourself to a single publication's content when you could have the most interesting articles from across the entire web at your earlobes? Want some politics over your pancakes? Listening for tech news while on the toilet? Digg offers multiple flash briefings including: The top stories on Digg right now, News from across the web, Politics, Technology, Entertainment, and Sports. Each briefing is full of stories guaranteed to keep you in the know and give you something to talk about during your lunch break (please make sure not to eat at your desk). (Daily)
 
+- [The Wall Street Journal Tech News Briefing](https://www.amazon.com/Wall-Street-Journal-Tech-Briefing/dp/B075NQYZ7T/) - Tech updates and interviews. Published each weekday so you're plugged into the latest on technology, gadgets and consumer trends from The Wall Street Journal.
+
 ## Weather
 
 - [Ask wxbrad](https://www.amazon.com/wxbrad-Ask/dp/B0744PC935/) - The latest weather updates from First Warn Chief Meteorologist Brad Panovich. Otherwise known as wxbrad or weather Brad on-line. Get the personalized forecast each day right from Alexa. (Daily)
+
+- [Weather](https://www.amazon.com/Amazon-Weather/dp/B01JHLFTJO/) - As part of your Flash Briefing, Alexa will provide a brief update on the current weather conditions, and the forecast for the day.
 
 ## License
 
