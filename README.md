@@ -8,7 +8,9 @@ Just type [awesomeflashbriefings.com](https://awesomeflashbriefings.com/) to go 
 
 - [Business and Finance](#business-and-finance)
 - [Crypto News](#crypto-news)
+- [Education and Refernece](#education-and-reference)
 - [General News](#general-news)
+- [Lifestyle](#lifestyle)
 - [Miscellaneous](#miscellaneous)
 - [Sports News](#sports-news)
 - [Technology News](#technology-news)
@@ -18,13 +20,23 @@ Just type [awesomeflashbriefings.com](https://awesomeflashbriefings.com/) to go 
 
 - [CNBC Markets Now](https://www.amazon.com/NBCUniversal-CNBC-Markets-Now/dp/B077BLZNN2/) - CNBC Markets Now provides a look at the days market moves with commentary and analysis from Michael Santoli, CNBC Senior Markets Commentator.
 
-- [CNN Business](https://www.amazon.com/CNN-Interactive-Group-Inc-CNNMoney/dp/B0779GYS38/) - Catch up on the latest business news headlines from CNN Business every weekday. Tune in to “Before the Bell” at 7:30 am ET for chief business correspondent Christine Romans to set up your day. Catch “Markets Now” after the closing bell with CNN Business’s editor-at-large Richard Quest at 5:30 pm ET. Available on Amazon video and audio devices.
+- [CNN Business](https://www.amazon.com/CNN-Interactive-Group-Inc-CNNMoney/dp/B0779GYS38/) - Catch up on the latest business news headlines from CNN Business every weekday. Tune in to "Before the Bell" at 7:30 am ET for chief business correspondent Christine Romans to set up your day. Catch "Markets Now" after the closing bell with CNN Business's editor-at-large Richard Quest at 5:30 pm ET. Available on Amazon video and audio devices.
 
 - [Fox Business](https://www.amazon.com/Fox-News-Channel-Business/dp/B06XDTL3JT/) - Get the latest business news and top stories from Fox Business, now on Alexa.
+
+- [The Front Row Entrepreneur](https://www.amazon.com/Jen-Lehner-Media-LLC-Entrepreneur/dp/B077XL4DVH/) - Every day, M-F, I deliver the freshest news in the world of online business and digital marketing.
+
+- [Real Estate Today](https://www.amazon.com/Estate-Today-Answers-Buyers-Sellers/dp/B07MN6JMYY/) - Real Estate Answers For Buyers &amp; Sellers using audio from our weekly show #REAL Q&amp;A - Real Estate Answers Live!
+
+- [The Voice of Social Sales](https://www.amazon.com/The-Voice-of-Social-Sales/dp/B07GBTPZZ1/) - The Voice of Social Sales is hosted by Chelsea Peitz, keynote speaker and best selling author, who is an 18 year veteran of the real estate industry. Chelsea shares real, actionable lead generation, branding and marketing tips in an easy-to-understand and digestible bite sized formulas.
 
 ## Crypto News
 
 - [Crypto Coin Minute](https://www.amazon.com/DES-Pro-Crypto-Coin-Minute/dp/B07N83XZCY/) - Your daily crypto coin flash briefing in one minute. We can hopefully provide a quick sound bite for your crypto information for the day. (Daily)
+
+## Education and Reference
+
+- [Word of the Day Flash Briefing](https://www.amazon.com/Volley-Inc-Word-Flash-Briefing/dp/B06VTHH5MW/) - The original Word of the Day Flash Briefing. Word of the Day teaches you a useful word, its definition, etymology, and gives you examples of how to use it in a sentence. A new word each and every day!
 
 ## General News
 
@@ -37,6 +49,8 @@ Just type [awesomeflashbriefings.com](https://awesomeflashbriefings.com/) to go 
 - [CNN Flash Briefing](https://www.amazon.com/CNN-Interactive-Group-Inc-Briefing/dp/B01JHK4I0G/) - Follow the latest news and breaking news for U.S., world, weather, entertainment, politics and health from CNN within Alexa’s Flash Briefing.
 
 - [Fox News](https://www.amazon.com/Fox-News-Channel/dp/B01M5EIW2D/) - Get the latest news from FOX News now on Alexa. Stay up to date on the political landscape or listen to the latest celebrity gossip. FOX News keeps you in the know. (This flash briefing includes video on compatible devices). (Daily)
+
+- [Gaming Observer: A Video Games News Flash Briefing](https://www.amazon.com/Gaming-Observer-Video-Games-Briefing/dp/B07FLQ9RB1/) - The Gaming Observer is dedicated to informed and analytical reporting towards gaming of all kinds, giving you the latest stories every single day. Do you feel like you have to scrounge the web in order to find the info you're interested in? This flash briefing is perfect for your routines, where you can hear all about the previous day's gaming news without having to do any of the work.
 
 - [NPR News Now](https://www.amazon.com/NPR-Hourly-News-Summary/dp/B01K07MU64/) - Five minutes of NPR news. (Hourly)
 
@@ -52,11 +66,19 @@ Just type [awesomeflashbriefings.com](https://awesomeflashbriefings.com/) to go 
 
 - [Washington Post](https://www.amazon.com/Washington-Post-Company-The/dp/B01N2IDHFF/) - Listen to one of three shows updated daily: Our news show, Post Reports, brings you the reporting of The Post newsroom. Our politics morning show, The Daily 202's Big Idea, analyzes the biggest political stories of the day. Our history show, Retropod, brings you one fascinating moment from history every day. You can also ask for headlines. (Daily)
 
+## Lifestyle
+
+- [The Daily Spark](https://www.amazon.com/gp/product/B07JNG3K14/) - What is the "spark" you need to get up out of bed, charge toward your day, and light a fire under your butt to get it all done? What fires you up to achieve your business and personal goals for the day, the week, the month?
+
+- [Everyday Positivity Flash Briefing](https://www.amazon.com/Volley-Inc-Everyday-Positivity-Briefing/dp/B07F5JK8M4/) - A positive flash briefing Alexa skill to help lift your day and put you in the right state of mind to thrive. You got this :) Get your flash briefing motivation today!
+
 ## Miscellaneous
 
 - [Curiosity Daily from Curiosity.com](https://www.amazon.com/Curiosity-com-Curiosity-Daily-from/dp/B07CP17DJY/) - The award-winning Curiosity Daily podcast will help you get smarter about the world around you — every day. In less than 10 minutes, you'll get a unique mix of research-based life hacks, developments in science and technology, and more. Join the lively and entertaining hosts Cody Gough and Ashley Hamer as they help you learn about your mind and body, outer space and the depths of the sea, and how history shaped the world into what it is today. And you can always read more about everything we discuss on Curiosity.com or on our award-winning Curiosity app for Android and iOS. (Daily)
 
 - [Daily Cup of Tea (Top Reddit Posts)](https://www.amazon.com/Daily-Cup-Tea-Reddit-Posts/dp/B07368MSKV/) - Daily Cup of Tea is an skill that pulls the daily top posts from reddit and gives you gives you a little bit of everything you like each day. Whether it's news, jokes, facts, quotes, or pro-tips, we will brew up a perfect cup of content for you every day of the week! (Daily)
+
+- [The Real Estate Sessions Podcast Flash Briefing](https://www.amazon.com/Estate-Sessions-Podcast-Flash-Briefing/dp/B07GXPPWTX/) - Looking for interviews that explore how leaders in the real estate industry got started? The Real Estate Sessions Podcast is the answer. Over 220 interviews conducted the last 4 1/2 years have captured the stories of many industry leaders.
 
 ## Sports News
 
