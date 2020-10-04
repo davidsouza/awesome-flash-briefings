@@ -109,7 +109,3 @@ Just type [awesomeflashbriefings.com](https://awesomeflashbriefings.com/) to go 
 - [Ask wxbrad](https://www.amazon.com/wxbrad-Ask/dp/B0744PC935/) - The latest weather updates from First Warn Chief Meteorologist Brad Panovich. Otherwise known as wxbrad or weather Brad on-line. Get the personalized forecast each day right from Alexa. (Daily)
 
 - [Weather](https://www.amazon.com/Amazon-Weather/dp/B01JHLFTJO/) - As part of your Flash Briefing, Alexa will provide a brief update on the current weather conditions, and the forecast for the day.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
