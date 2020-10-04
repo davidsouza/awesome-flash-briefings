@@ -8,7 +8,7 @@ Just type [awesomeflashbriefings.com](https://awesomeflashbriefings.com/) to go 
 
 - [Business and Finance](#business-and-finance)
 - [Crypto News](#crypto-news)
-- [Education and Refernece](#education-and-reference)
+- [Education and Reference](#education-and-reference)
 - [General News](#general-news)
 - [Lifestyle](#lifestyle)
 - [Miscellaneous](#miscellaneous)
@@ -40,13 +40,13 @@ Just type [awesomeflashbriefings.com](https://awesomeflashbriefings.com/) to go 
 
 ## General News
 
-- [ABC News Update](https://www.amazon.com/ABC-News-Radio-Update/dp/B072F3T752/) - From ABC News, this hourly audio newscast provides the latest headlines....updated every hour, 24 hours per day. The newscast runs two minutes.
+- [ABC News Update](https://www.amazon.com/ABC-News-Radio-Update/dp/B072F3T752/) - From ABC News, this hourly audio newscast provides the latest headlines updated every hour, 24 hours per day. The newscast runs two minutes.
 
 - [BBC World Service](https://www.amazon.com/TuneIn-BBC/dp/B01JHLI06S/) - The latest five minute news bulletin from BBC World Service.
 
 - [CBS Radio News Hourly Cast](https://www.amazon.com/CBS-Radio-News-Hourly-Cast/dp/B01L7IX7XK/) - A five-minute news summary of the biggest news impacting your world.
 
-- [CNN Flash Briefing](https://www.amazon.com/CNN-Interactive-Group-Inc-Briefing/dp/B01JHK4I0G/) - Follow the latest news and breaking news for U.S., world, weather, entertainment, politics and health from CNN within Alexa’s Flash Briefing.
+- [CNN Flash Briefing](https://www.amazon.com/CNN-Interactive-Group-Inc-Briefing/dp/B01JHK4I0G/) - Follow the latest news and breaking news for U.S., world, weather, entertainment, politics and health from CNN within Alexa's Flash Briefing.
 
 - [Fox News](https://www.amazon.com/Fox-News-Channel/dp/B01M5EIW2D/) - Get the latest news from FOX News now on Alexa. Stay up to date on the political landscape or listen to the latest celebrity gossip. FOX News keeps you in the know. (This flash briefing includes video on compatible devices). (Daily)
 
@@ -82,7 +82,7 @@ Just type [awesomeflashbriefings.com](https://awesomeflashbriefings.com/) to go 
 
 ## Sports News
 
-- [CBS Sports Update](https://www.amazon.com/gp/product/B01M9FIFIK/) - Boomer Esiason, John Feinstein, Doug Gottlieb and Jim Rome provide unique commentaries in the world of Sports news
+- [CBS Sports Update](https://www.amazon.com/gp/product/B01M9FIFIK/) - Boomer Esiason, John Feinstein, Doug Gottlieb and Jim Rome provide unique commentaries in the world of Sports news.
 
 - [ESPN Flash Briefing](https://www.amazon.com/ESPN-Flash-Briefing/dp/B073X79L5L/) - Want to stay up to date on the latest sports news? From Aaron Rodgers to Zlatan Ibrahimović, your ESPN Flash Briefings bring you the hottest stories in sports, updated throughout the day.
 
@@ -94,7 +94,7 @@ Just type [awesomeflashbriefings.com](https://awesomeflashbriefings.com/) to go 
 
 ## Technology News
 
-- [CNBC Tech Check](https://www.amazon.com/NBCUniversal-CNBC-Tech-Check/dp/B077BLM9NR/) - CNBC’s Tech Check brings you the latest in tech news from CNBC’s 1 Market in the heart of San Francisco. Tech Check keeps you up to speed on the largest technology companies, cybersecurity, social media, electronics, robotics and mobile technology.
+- [CNBC Tech Check](https://www.amazon.com/NBCUniversal-CNBC-Tech-Check/dp/B077BLM9NR/) - CNBC's Tech Check brings you the latest in tech news from CNBC's 1 Market in the heart of San Francisco. Tech Check keeps you up to speed on the largest technology companies, cybersecurity, social media, electronics, robotics and mobile technology.
 
 - [CNET News](https://www.amazon.com/CNET-News/dp/B01KYOAT7A/) - Tech Today delivers a daily drop of the most compelling stories from and around the world of technology and tech culture. In about 60 seconds, viewers get a quick take of what matters and how it impacts their relationship with the connected world.
 
